@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spinner Kullan</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_giris_activite">GirisActivite</string>
+    <string name="menu_sp_text">Spinner Örneği</string>
+    <string name="mn_lst_text">Listeleme Örneği</string>
+    <string name="mn_exit_text">Çıkış</string>
+    <string name="title_activity_listeleme_activite">ListelemeActivite</string>
+</resources>

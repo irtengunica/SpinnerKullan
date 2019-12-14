@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="isletim_sistemleri">
+        <item>İşletim Sistemi Seçiniz</item>
+        <item>Windows</item>
+        <item>Linux</item>
+        <item>Mac Os</item>
+        <item>Android</item>
+        <item>Pardus</item>
+    </string-array>
+</resources>
